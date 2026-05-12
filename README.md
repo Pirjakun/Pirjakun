@@ -50,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Pirjakun/Pirjakun/snake-output/snake.svg" alt="Snake animation" />
 
 ###
