@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pirjakun/Pirjakun/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="left">
